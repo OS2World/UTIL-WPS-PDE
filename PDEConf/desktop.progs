@@ -1,0 +1,29 @@
+//Objects on the Desktop, format of record is:
+//type, caption, icon (full path or path from \..\pde\), X, Y, filename, path, parameters
+FOLDER
+Home
+bitmaps\pdm\home.ico
+32
+64
+root\Home\
+root\Home\
+
+0
+FOLDER
+Drives
+bitmaps\pdm\drives.ico
+32
+128
+root\Drives\
+root\Drives\
+
+0
+APP
+Lynx
+bitmaps\pdm\lynx2.ico
+32
+192
+C:\OS2Programs\pmlinks\links.exe
+C:\OS2Programs\pmlinks\
+-driver pmshell
+0

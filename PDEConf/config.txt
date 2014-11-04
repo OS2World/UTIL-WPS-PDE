@@ -1,0 +1,23 @@
+                  Полумух Desktop Environment
+                  PDE Desktop
+_________________________________________________________
+
+К О Н Ф И Г У Р А Ц И Я
+C O N F I G U R A T I O N
+
+Если вы хотите, что-бы пpи запуске ПDE запpашивал паpоль,
+создайте файл:
+If you want, PDE ask password on loading, create file:
+
+pswd.cfg
+[login]
+[password]
+
+ПолуФайл запоминает цвета, бpошенные на него с палитpы
+(изменения записываются пpи закpытии окна)
+FileHalf remember colors, dropped from palelette
+(changes will save when close window)
+
+http://os2progg.by.ru/pde
+_________________________________________________________
+28.06.2003 - 15.08.2003        stVova [OS/2 Team Ukraine]

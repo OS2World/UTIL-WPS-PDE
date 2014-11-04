@@ -1,0 +1,7 @@
+[SHORTCUT]
+//link: type, object-name, path, parameters
+APP
+c:\os2programs\pmlinks\links.exe
+c:\os2programs\pmlinks\
+-driver pmshell
+
